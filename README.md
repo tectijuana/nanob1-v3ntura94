@@ -1,6 +1,6 @@
 
 
-http://p84.cooltext.com/Download?File=Cool+Text+-+boost+335134860194229.png
+![](https://imagenes.universia.net/gc/net/images/ciencia-tecnologia/-/-s/-so/-software-lenguajes-programacion-mas-demandados.jpg)
 
 1. Tutor básico de Git en 15 minutos http://try.github.com por CodeSchool
 2. Git Guru https://www.atlassian.com/git/tutorials por GitBucket
